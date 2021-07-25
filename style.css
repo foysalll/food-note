@@ -1,0 +1,182 @@
+body{
+
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+  
+}
+ul {
+  list-style-type: none;
+  margin:0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(212, 39, 39);
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
+
+
+h1{
+    font-size:50px;
+}
+
+.order-button{
+    
+    text-decoration: none;
+    background-image:linear-gradient(chocolate, tomato);
+    padding:15px 30px;
+    border-radius: 20px;
+    
+  
+ 
+}
+.btnmrg{
+
+    margin-bottom: 50px;
+}
+.order-food{
+
+    margin-bottom: 100px;
+
+}
+
+
+
+.about{
+
+    background-image: url(images/male/section\ 2Frame\ 58.png);
+    text-align: left;
+    
+        background-size: cover; 
+        height:480px; 
+        padding-top:80px;
+        margin-bottom: 200px;
+    
+}
+.about-move{
+    width:40%;
+    margin-left: 45%;
+}
+.cntct-margin{
+    margin-bottom: 50px;
+}
+
+
+
+.half-width0{
+    width:30%;
+    margin-left: 12.5%;
+    margin-right: 10%;
+    padding-bottom: 200px;
+}
+h1{
+
+    font-size: 50px;
+}
+
+
+
+.small-color{
+
+color:chocolate;
+
+}
+
+
+.recepies-title{
+
+    display:flex;
+    margin-left: 4%;
+    margin-right: 4%;
+   
+    
+
+}
+
+.half-width{
+    width: 30%;
+}
+.half-width img{
+
+    width:100%;
+    border-radius: 10px;
+
+}
+.my-recepies{
+
+    text-align: center;
+    margin-bottom: 80px;
+
+   
+
+}
+
+.box-shadow{
+
+    width:40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+#youtube{
+
+    text-align: center;
+    margin:auto;
+  
+
+}
+.tube{
+
+    display:flex;
+}
+
+.tubeshadow{
+   
+    width:83%;
+    margin: auto;  
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+.sectiongap{
+
+    margin-top:100px;
+    margin-bottom:100px;
+}
+footer{
+
+    background-color: rgb(41, 39, 39);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    text-align: center;
+    
+    
+}
+ footer p{
+     color:white;
+ }
+
+ .vip{
+
+    color:tomato;
+ }
